@@ -1,0 +1,90 @@
+---
+layout: default
+title: Bienvenue au LavaJUG
+---
+
+
+
+
+{% assign posts = paginator.posts  %}
+{% for post in posts %}
+<section class="block">
+   
+    <div class="heading">
+        <div class="date-container">
+            <div class="date">
+                 <p>{{ post.date | date: "%d" }}<span>{{ post.date | date: "%b" }}</span></p>
+            </div>
+        </div>
+        <a href="{{ post.url }}"><h1 class="heading">{{ post.title }}</h1></a>
+        <a href="{{ post.url }}" class="pull-right btn btn-default">permalien</a>
+
+    </div>
+    {% if post.pending %}
+    <div class="content">
+       {{ post.content }}
+       <br/>
+       <h4>Sponsors</h4>
+       <div class="sponsors">
+           <span>Comme d'habitude la soirée se clôturera par un buffet gracieusement offert par nos sponsors afin de poursuivre les échanges dans un cadre plus informel.</span>
+           <br/>
+           {% for sponsor in post.sponsors %}
+           <a href="{{site.data.sponsors[sponsor].url}}" target="_blank"><img src="{{site.data.sponsors[sponsor].logo}}" alt="{{sponsor}}" ></a>
+           {% endfor%}
+       </div>
+       <h4>Comment venir</h4>
+       <div>
+           {% assign room = site.data.rooms[post.location] %}
+           {% include room.html %}
+       </div>
+       {% if post.eventbriteId  %}
+       <br/>
+       <h4>Inscription</h4>
+       <br/>
+       <iframe allowtransparency="true" frameborder="0" hspace="0" marginheight="5" marginwidth="5" scrolling="no" src="http://www.eventbrite.com/tickets-external?eid={{ post.eventbriteId }}&amp;ref=etckt" vspace="0" width="100%" >
+       </iframe>
+       {% endif %}
+
+   </div>
+   {% else %}
+   <div class="content">
+      {{ post.content }}
+      <br/>
+      <h4>Sponsors</h4>
+      <div class="sponsors">
+      <br/>
+      {% for sponsor in post.sponsors %}
+      <a href="{{site.data.sponsors[sponsor].url}}" target="_blank"><img src="{{site.data.sponsors[sponsor].logo}}" alt="{{sponsor}}" ></a>
+      {% endfor%}
+      </div>
+      {% if post.youtubeId  %}
+      <br/>
+      <h4>Vidéo</h4>
+      <figure>
+          <iframe class="video" allowfullscreen="allowfullscreen" frameborder="0" src="{{ post.youtubeId }}" width="420" height="315"></iframe>
+      </figure>
+      {% endif %}
+   </div>
+   {% endif %}
+</section>
+{% endfor %}
+
+<section class="block">
+<div class="content">
+<div >
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="btn btn-default">&lt; Plus récents</a>
+  {% else %}
+    <span class="btn btn-default" disabled="disabled">&lt; Plus récents</span>
+  {% endif %}
+  <div class="pull-right">
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="btn btn-default">Plus anciens &gt;</a>
+  {% else %}
+    <span class="btn btn-default" disabled="disabled">Plus anciens &gt;</span>
+  {% endif %}
+  </div>
+</div>
+</div>
+</section>
+

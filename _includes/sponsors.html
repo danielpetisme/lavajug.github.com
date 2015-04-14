@@ -1,0 +1,12 @@
+<div class="sponsors">
+    <div class="heading">
+        <h1>Sponsors</h1>
+    </div>
+    {% for sponsor in site.data.sponsors %}
+        {% if sponsor[1].premium %}
+        <a href="{{ sponsor[1].url }}" target="_blank">
+            <img src="{{ sponsor[1].logo }}" alt="{{ sponsor[1].name }}"/>
+        </a>
+        {% endif %}
+    {% endfor %}
+</div>

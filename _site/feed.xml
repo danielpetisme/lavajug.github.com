@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>LavaJUG - Articles</title>
+		<description>Partager nos expériences des TIC et promouvoir les technologies autour de la plate-forme Java en Auvergne.</description>
+		<link>http://192.168.1.15:4000</link>
+		<atom:link href="http://192.168.1.15:4000/feed.articles.xml" rel="self" type="application/rss+xml" />
+		
+			
+			<item>
+				<title>Soirée MongoDB avec Tugdual Grall</title>
+				
+					<description>&lt;h4&gt;Au programme&lt;/h4&gt;
+</description>
+				
+				<pubDate>Thu, 19 Mar 2015 00:00:00 +0100</pubDate>
+				<link>http://192.168.1.15:4000/2015/03/19/mongodb.html</link>
+				<guid isPermaLink="true">http://192.168.1.15:4000/2015/03/19/mongodb.html</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>Soirée à la (re)découverte des langages fonctionnels avec Yannick Loiseau</title>
+				
+					<description>&lt;h4&gt;Au programme&lt;/h4&gt;
+</description>
+				
+				<pubDate>Thu, 26 Feb 2015 00:00:00 +0100</pubDate>
+				<link>http://192.168.1.15:4000/2015/02/26/langages-fonctionnels.html</link>
+				<guid isPermaLink="true">http://192.168.1.15:4000/2015/02/26/langages-fonctionnels.html</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>Soirée Spring avec Brian Clozel</title>
+				
+					<description>&lt;h4&gt;Au programme&lt;/h4&gt;
+</description>
+				
+				<pubDate>Fri, 16 Jan 2015 00:00:00 +0100</pubDate>
+				<link>http://192.168.1.15:4000/2015/01/16/spring-boot.html</link>
+				<guid isPermaLink="true">http://192.168.1.15:4000/2015/01/16/spring-boot.html</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>Organisation, Méthode, Devops, Usines logicielles, ... avec Dimitri Baeli</title>
+				
+					<description>&lt;h4&gt;Au programme&lt;/h4&gt;
+</description>
+				
+				<pubDate>Thu, 11 Dec 2014 00:00:00 +0100</pubDate>
+				<link>http://192.168.1.15:4000/2014/12/11/orga-agile-devops.html</link>
+				<guid isPermaLink="true">http://192.168.1.15:4000/2014/12/11/orga-agile-devops.html</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>WisdomFramework : du fun même avec Maven et OSGI (Clément Escoffier)</title>
+				
+					<description>&lt;h4&gt;Au programme&lt;/h4&gt;
+</description>
+				
+				<pubDate>Wed, 19 Nov 2014 00:00:00 +0100</pubDate>
+				<link>http://192.168.1.15:4000/2014/11/19/wisdom-framework.html</link>
+				<guid isPermaLink="true">http://192.168.1.15:4000/2014/11/19/wisdom-framework.html</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>Java EE 7 , Jboss Forge , et le futur avec Java EE 8 avec Antonio Goncalves</title>
+				
+					<description>&lt;h4&gt;Au programme&lt;/h4&gt;
+</description>
+				
+				<pubDate>Thu, 02 Oct 2014 00:00:00 +0200</pubDate>
+				<link>http://192.168.1.15:4000/2014/10/02/java-ee-7-8.html</link>
+				<guid isPermaLink="true">http://192.168.1.15:4000/2014/10/02/java-ee-7-8.html</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>Le bon testeur il teste.... et le mauvais testeur il teste aussi ! avec Agnès Crepet et Guillaume Ehret</title>
+				
+					<description>&lt;h4&gt;Au programme&lt;/h4&gt;
+</description>
+				
+				<pubDate>Thu, 11 Sep 2014 00:00:00 +0200</pubDate>
+				<link>http://192.168.1.15:4000/2014/09/11/le-bon-testeur.html</link>
+				<guid isPermaLink="true">http://192.168.1.15:4000/2014/09/11/le-bon-testeur.html</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>Développeur front-end en milieu hostile avec Julien Muetton</title>
+				
+					<description>&lt;h4&gt;Au programme&lt;/h4&gt;
+</description>
+				
+				<pubDate>Thu, 22 May 2014 00:00:00 +0200</pubDate>
+				<link>http://192.168.1.15:4000/2014/05/22/dev-front-milieu-hostile.html</link>
+				<guid isPermaLink="true">http://192.168.1.15:4000/2014/05/22/dev-front-milieu-hostile.html</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>Apache Solr avec Aurélien Mazoyer</title>
+				
+					<description>&lt;h4&gt;Au programme&lt;/h4&gt;
+</description>
+				
+				<pubDate>Thu, 10 Apr 2014 00:00:00 +0200</pubDate>
+				<link>http://192.168.1.15:4000/2014/04/10/apache-solr.html</link>
+				<guid isPermaLink="true">http://192.168.1.15:4000/2014/04/10/apache-solr.html</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>Java 8 : lambdas, Streams et Collectors, le nouveau visage de l’API Collection avec José Paumard</title>
+				
+					<description>&lt;h4&gt;Au programme&lt;/h4&gt;
+</description>
+				
+				<pubDate>Thu, 13 Mar 2014 00:00:00 +0100</pubDate>
+				<link>http://192.168.1.15:4000/2014/03/13/java-8.html</link>
+				<guid isPermaLink="true">http://192.168.1.15:4000/2014/03/13/java-8.html</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>Lambda Bestiary avec Rémi Forax</title>
+				
+					<description>&lt;h4&gt;Au programme&lt;/h4&gt;
+</description>
+				
+				<pubDate>Thu, 16 Jan 2014 00:00:00 +0100</pubDate>
+				<link>http://192.168.1.15:4000/2014/01/16/lambda-bestiary.html</link>
+				<guid isPermaLink="true">http://192.168.1.15:4000/2014/01/16/lambda-bestiary.html</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>Virtualisation avec Sébastien Douche</title>
+				
+					<description>&lt;h4&gt;Au programme&lt;/h4&gt;
+</description>
+				
+				<pubDate>Thu, 19 Dec 2013 00:00:00 +0100</pubDate>
+				<link>http://192.168.1.15:4000/2013/12/19/virtualisation.html</link>
+				<guid isPermaLink="true">http://192.168.1.15:4000/2013/12/19/virtualisation.html</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>Pimp my Java : avec Philippe Charriere et Daniel Petisme</title>
+				
+					<description>&lt;h4&gt;Au programme&lt;/h4&gt;
+</description>
+				
+				<pubDate>Thu, 07 Nov 2013 00:00:00 +0100</pubDate>
+				<link>http://192.168.1.15:4000/2013/11/07/pimp-my-java.html</link>
+				<guid isPermaLink="true">http://192.168.1.15:4000/2013/11/07/pimp-my-java.html</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>Soirée JEE m&#39;a tuer : avec Emmanuel Hugonnet</title>
+				
+					<description>&lt;h4&gt;Au programme&lt;/h4&gt;
+</description>
+				
+				<pubDate>Thu, 13 Jun 2013 00:00:00 +0200</pubDate>
+				<link>http://192.168.1.15:4000/2013/06/13/J2EE-m-a-tuer.html</link>
+				<guid isPermaLink="true">http://192.168.1.15:4000/2013/06/13/J2EE-m-a-tuer.html</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>Soirée ElasticSearch : avec David Pilato</title>
+				
+					<description>&lt;h4&gt;Au programme&lt;/h4&gt;
+</description>
+				
+				<pubDate>Thu, 16 May 2013 00:00:00 +0200</pubDate>
+				<link>http://192.168.1.15:4000/2013/05/16/elsticsearch.html</link>
+				<guid isPermaLink="true">http://192.168.1.15:4000/2013/05/16/elsticsearch.html</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>Soirée Performance des serveurs en Java : l’expérience du projet OpenDJ avec Ludovic Poitou</title>
+				
+					<description>&lt;h4&gt;Au programme&lt;/h4&gt;
+</description>
+				
+				<pubDate>Thu, 21 Mar 2013 00:00:00 +0100</pubDate>
+				<link>http://192.168.1.15:4000/2013/03/21/opendj-performance.html</link>
+				<guid isPermaLink="true">http://192.168.1.15:4000/2013/03/21/opendj-performance.html</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>Soirée Golo Golo avec Julien Ponge et Frédéric le Mouel</title>
+				
+					<description>&lt;h4&gt;Au programme&lt;/h4&gt;
+</description>
+				
+				<pubDate>Thu, 07 Feb 2013 00:00:00 +0100</pubDate>
+				<link>http://192.168.1.15:4000/2013/02/07/golo-golo.html</link>
+				<guid isPermaLink="true">http://192.168.1.15:4000/2013/02/07/golo-golo.html</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>Soirée Hibernate OGM: JPA for NoSQL avec Emmanuel Bernard</title>
+				
+					<description>&lt;h4&gt;Au programme&lt;/h4&gt;
+</description>
+				
+				<pubDate>Thu, 10 Jan 2013 00:00:00 +0100</pubDate>
+				<link>http://192.168.1.15:4000/2013/01/10/hibernate-OGM.html</link>
+				<guid isPermaLink="true">http://192.168.1.15:4000/2013/01/10/hibernate-OGM.html</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>Du legacy au Cloud en moins d’une heure avec David Gageot</title>
+				
+					<description>&lt;h4&gt;Au programme&lt;/h4&gt;
+</description>
+				
+				<pubDate>Wed, 19 Dec 2012 00:00:00 +0100</pubDate>
+				<link>http://192.168.1.15:4000/2012/12/19/du-legacy-au-cloud.html</link>
+				<guid isPermaLink="true">http://192.168.1.15:4000/2012/12/19/du-legacy-au-cloud.html</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>De l&#39;intégration continue au déploiement continu avec Henri Gomez</title>
+				
+					<description>&lt;h4&gt;Au programme&lt;/h4&gt;
+</description>
+				
+				<pubDate>Thu, 08 Nov 2012 00:00:00 +0100</pubDate>
+				<link>http://192.168.1.15:4000/2012/11/08/deploiement-continu.html</link>
+				<guid isPermaLink="true">http://192.168.1.15:4000/2012/11/08/deploiement-continu.html</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>Java EE 6 : tester et déployer, sur terre et dans les nuages avec Alexis Hassler</title>
+				
+					<description>&lt;h4&gt;Au programme&lt;/h4&gt;
+</description>
+				
+				<pubDate>Thu, 13 Sep 2012 00:00:00 +0200</pubDate>
+				<link>http://192.168.1.15:4000/2012/09/13/javaee-6.html</link>
+				<guid isPermaLink="true">http://192.168.1.15:4000/2012/09/13/javaee-6.html</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>Soirée Maven vs Gradle avec Arnaud Héritier et Grégory Boissinot</title>
+				
+					<description>&lt;h4&gt;Au programme&lt;/h4&gt;
+</description>
+				
+				<pubDate>Thu, 14 Jun 2012 00:00:00 +0200</pubDate>
+				<link>http://192.168.1.15:4000/2012/06/14/maven-vs-gradle.html</link>
+				<guid isPermaLink="true">http://192.168.1.15:4000/2012/06/14/maven-vs-gradle.html</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>Soirée SSII et Open Source avec Jérôme Petit</title>
+				
+					<description>&lt;h4&gt;Au programme&lt;/h4&gt;
+</description>
+				
+				<pubDate>Wed, 22 Feb 2012 00:00:00 +0100</pubDate>
+				<link>http://192.168.1.15:4000/2012/02/22/SSII-open-source.html</link>
+				<guid isPermaLink="true">http://192.168.1.15:4000/2012/02/22/SSII-open-source.html</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>Soirée Play! Framework avec Erwan Loisant</title>
+				
+					<description>&lt;h4&gt;Au programme&lt;/h4&gt;
+</description>
+				
+				<pubDate>Tue, 06 Dec 2011 00:00:00 +0100</pubDate>
+				<link>http://192.168.1.15:4000/2011/12/06/play-framework.html</link>
+				<guid isPermaLink="true">http://192.168.1.15:4000/2011/12/06/play-framework.html</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>Soirée Java 7 avec Alexis Moussine-Pouchkine et Julien Ponge</title>
+				
+					<description>&lt;p&gt;Après la sortie de Java 7, qui a eu lieu cet été, le Lava JUG se devait de vous offrir un déballage dans les règles! &lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 13 Oct 2011 00:00:00 +0200</pubDate>
+				<link>http://192.168.1.15:4000/2011/10/13/java-7.html</link>
+				<guid isPermaLink="true">http://192.168.1.15:4000/2011/10/13/java-7.html</guid>
+			</item>
+			
+		
+	</channel>
+</rss>

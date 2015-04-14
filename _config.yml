@@ -1,0 +1,37 @@
+name: LavaJUG
+description: Partager nos expériences des TIC et promouvoir les technologies autour de la plate-forme Java en Auvergne.
+author: LavaJUG
+
+url: http://www.lavajug.org
+
+paginate_path: "/events/page:num/"
+
+markdown: redcarpet
+highlighter: pygments
+paginate: 2
+
+navigation:
+ - title: Accueil
+   url: /
+ - title: Événements
+   url: /events
+ - title: A propos
+   url: /about/
+ - title: Contacts
+   url: /contacts/
+   
+
+syndication:
+ - name: twitter
+   url: http://www.twitter.com/lavajug
+ - name: youtube
+   url: https://www.youtube.com/channel/UC7Ue0kGoImxRmfy4EykvtXw
+ - name: google-plus
+   url: https://plus.google.com/102271468498818981170/about
+ - name: github
+   url: https://github.com/LavaJUG
+
+#gems:
+# - jekyll-compass
+# - normalize-scss
+# - susy

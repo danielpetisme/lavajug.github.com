@@ -1,0 +1,72 @@
+{% include head.html %}
+<div class="main">
+
+            {% assign counter = 0 %}
+            {% assign loaded = false %}
+                <section class="block">
+                  <div class="heading">
+                      <div class="date-container">
+                        <div class="date">
+                          <p>{{ page.date | date: "%d" }}<span>{{ page.date | date: "%b" }}</span></p>
+                        </div>
+                      </div>
+                      <h1>{{ page.title }}</h1>
+                      <div class="clearfix"></div>
+                  </div>
+                  {% if page.pending %}
+                  <div class="content">
+                          {{ content }}
+                          <br/>
+                          <h4>Sponsors</h4>
+                          <div class="sponsors">
+                          <span>Comme d'habitude la soirée se clôturera par un buffet gracieusement offert par nos sponsors afin de poursuivre les échanges dans un cadre plus informel.</span>
+                          <br/>
+                          {% for sponsor in page.sponsors %}
+                              <a href="{{site.data.sponsors[sponsor].url}}" target="_blank"><img src="{{site.data.sponsors[sponsor].logo}}" alt="{{sponsor}}" ></a>
+                          {% endfor%}
+                          </div>
+                          <h4>Comment venir</h4>
+                          <div>
+                            {% assign room = site.data.rooms[page.location] %}
+                            {% include room.html %}
+                          </div>
+
+                          {% if page.eventbriteId  %}
+                          <br/>
+                          <h4>Inscription</h4>
+                          <br/>
+                          <iframe allowtransparency="true" frameborder="0" hspace="0" marginheight="5" marginwidth="5" scrolling="no" src="http://www.eventbrite.com/tickets-external?eid={{ page.eventbriteId }}&amp;ref=etckt" vspace="0" width="100%" >                          
+                          </iframe>
+                          {% endif %}
+
+                  </div>
+                  {% else %}
+                  <div class="content">
+                          {{ content }}
+                          <br/>
+                          <h4>Sponsors</h4>
+                          <div class="sponsors">
+                          <br/>
+                          {% for sponsor in page.sponsors %}
+                              <a href="{{site.data.sponsors[sponsor].url}}" target="_blank"><img src="{{site.data.sponsors[sponsor].logo}}" alt="{{sponsor}}" ></a>
+                          {% endfor%}
+                          </div>
+                          {% if page.youtubeId  %}
+                          <br/>
+                          <h4>Vidéo</h4>
+                          <figure>
+                          <iframe class="video" allowfullscreen="allowfullscreen" frameborder="0" src="{{ page.youtubeId }}" width="420" height="315"></iframe>
+                          </figure>
+                          {% endif %}
+                  </div>
+                  {% endif %}
+                
+                </section>
+
+</div>
+<div class="side">
+{% include panels.html %}
+</div>
+
+{% include footer.html %}
+

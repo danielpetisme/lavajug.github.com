@@ -1,0 +1,11 @@
+<div class="sponsors">
+    <div class="heading">
+        <h1>Partenaires</h1>
+    </div>
+    {% for partenaire in site.data.partenaires %}
+    <a href="{{ partenaire.url }}" target="_blank">
+        <img src="{{ partenaire.logo }}" alt="{{ partenaire.name }}"/>
+    </a>
+    {% endfor %}
+</div>
+

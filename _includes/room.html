@@ -1,0 +1,36 @@
+
+<br/>
+<p>
+Lévénement aura lieu dans l'Amphi 2 du pôle commun Polytech-ISIMA (<a href="/assets/ubp-plan-cezeaux.pdf" target="_blank">Batiment 13 sur le plan</a>) sur le campus universitaire des Cézeaux.
+</p>
+
+<br/><br/>
+{% if loaded == false %}
+    <script src="http://maps.googleapis.com/maps/api/js?sensor=false" type="text/javascript"></script>
+    {% assign loaded = true %} 
+{% endif %}
+
+{% assign counter = counter | plus: 1 %}
+<div class="map_canvas" id="map{{counter}}"></div>
+<script type="text/javascript">//<![CDATA[
+ 
+  var map;
+  function initialize() {
+    var amphi = new google.maps.LatLng({{ room.latitude }}, {{ room.longitude }});
+    var myOptions = {
+      zoom: 13,
+      center: amphi,
+      mapTypeId: google.maps.MapTypeId.ROADMAP
+    }
+    map = new google.maps.Map(document.getElementById("map{{counter}}"), myOptions);
+    var marker = new google.maps.Marker({
+                          map: map,
+                          position: amphi
+                 });
+  }
+  initialize();
+
+//]]></script>
+<br/><br/><br/>
+<p><img src="{{ room.image }}" class="location_picture" alt="{{room.image}}"></p>
+

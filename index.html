@@ -1,0 +1,66 @@
+---
+layout: default
+title: Bienvenue au LavaJUG
+---
+
+
+            {% assign landings = site.pages | sort: 'order' %}
+            {% for landing in landings  %}
+            {% if landing.type == 'landing' %}
+                <section class="block">
+                    <div class="heading">                    
+                        <h1>{{ landing.title }}</h1>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="content">
+                          {{ landing.content | markdownify }}
+                    </div>
+                </section>
+            {% endif %}
+            {% endfor %}
+
+            {% assign posts = site.posts | reverse %}
+            {% assign counter = 0 %} 
+            {% assign loaded = false %}
+            {% for post in posts %}
+            {% if post.pending %}
+                <section class="block">
+                  <div class="heading">
+                      <div class="date-container">
+                        <div class="date">
+                          <p>{{ post.date | date: "%d" }}<span>{{ post.date | date: "%b" }}</span></p>
+                        </div>
+                      </div>
+                      <h1>{{ post.title }}</h1>
+                      <div class="clearfix"></div>
+                  </div>
+                  <div class="content">
+                          {{ post.content }}
+                          <br/>                        
+                          <h4>Sponsors</h4>
+                          <div class="sponsors">
+                          <span>Comme d'habitude la soirée se clôturera par un buffet gracieusement offert par nos sponsors afin de poursuivre les échanges dans un cadre plus informel.</span>
+                          <br/>
+                          {% for sponsor in post.sponsors %}
+                              <a href="{{site.data.sponsors[sponsor].url}}" target="_blank"><img src="{{site.data.sponsors[sponsor].logo}}" alt="{{sponsor}}" ></a>
+                          {% endfor%}
+                          </div>
+                          <h4>Comment venir</h4>
+                          <div>
+                            {% assign room = site.data.rooms[post.location] %}
+                            {% include room.html %}
+                          </div>
+
+                          {% if post.eventbriteId  %}
+                          <br/>
+                          <h4>Inscription</h4>                            
+                          <br/>
+                          <iframe allowtransparency="true" frameborder="0" hspace="0" marginheight="5" marginwidth="5" scrolling="no" src="http://www.eventbrite.com/tickets-external?eid={{ post.eventbriteId }}&amp;ref=etckt" vspace="0" width="100%" height="152">
+                          </iframe>
+                          {% endif %}
+                  </div>
+                </section>
+            {% endif %}
+            {% endfor %}
+            
+

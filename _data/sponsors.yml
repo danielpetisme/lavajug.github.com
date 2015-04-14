@@ -1,0 +1,36 @@
+Sopra:
+  url: http://www.soprasteria.com/fr
+  logo: /assets/images/sponsors/logo-sopra.png
+  premium:
+IPLeanware:
+  url: http://www.ipleanware.com/
+  logo: /assets/images/sponsors/logo-ipleanware.png
+  premium: true
+SERLI:
+  url: http://www.serli.com/
+  logo: /assets/images/sponsors/logo-serli.png
+  premium: 
+CGI:
+  url: http://www.cgi.fr/
+  logo: /assets/images/sponsors/logo-cgi.png
+  premium: true
+almerys:
+  url: http://www.almerys.com/
+  logo: /assets/images/sponsors/logo-almerys.jpg
+  premium: 
+SearchXPR:
+  url: http://www.searchxpr.com/
+  logo: /assets/images/sponsors/logo-searchxpr.png
+  premium: 
+Lojelis:
+  url: http://www.lojelis.com/
+  logo: /assets/images/sponsors/logo-lojelis.png
+  premium: 
+Logica:
+  url: http://www.cgi.fr/
+  logo: /assets/images/sponsors/logo-logica.jpg
+  premium: 
+Capgemini:
+  url: https://www.fr.capgemini.com/
+  logo: /assets/images/sponsors/logo-capgemini.jpg
+  premium: 

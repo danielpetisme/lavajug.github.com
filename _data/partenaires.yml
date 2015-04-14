@@ -1,0 +1,23 @@
+- name: XWiki
+  url: http://www.xwiki.com/
+  logo: /assets/images/partenaires/logo-xwiki.png
+- name: Aspose
+  url: http://www.aspose.com/
+  logo: /assets/images/partenaires/logo-aspose.png
+- name: UBP
+  url: http://www.univ-bpclermont.fr/
+  logo: /assets/images/partenaires/logo-ubp.jpg
+- name: UDA
+  url: http://www.u-clermont1.fr/
+  logo: /assets/images/partenaires/logo-uda.png
+- name: OReilly
+  url: http://oreilly.com/
+  logo: /assets/images/partenaires/logo-oreilly.gif
+- name: JRebel
+  url: http://www.zeroturnaround.com/jrebel/
+  logo: /assets/images/partenaires/logo-jrebel.jpg
+- name: JetBrains
+  url: http://www.jetbrains.com/
+  logo: /assets/images/partenaires/logo-jetbrain.jpg
+
+

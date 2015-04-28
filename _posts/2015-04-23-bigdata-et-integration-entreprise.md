@@ -3,9 +3,9 @@
 layout: event
 title:  "Soirée Bigdata et intégration en entreprise"
 date:   2015-04-23
-pending: true
+pending: false
 eventbriteId: 16595021155
-youtubeId:
+youtubeId: "https://www.youtube.com/embed/g_BTrzpJIN4"
 sponsors:
  - CGI
  - IPLeanware

@@ -6,29 +6,26 @@ Lévénement aura lieu dans l'Amphi 2 du pôle commun Polytech-ISIMA (<a href="/
 
 <br/><br/>
 {% if loaded == false %}
-    <script src="http://maps.googleapis.com/maps/api/js?sensor=false" type="text/javascript"></script>
+    <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
     {% assign loaded = true %} 
 {% endif %}
 
 {% assign counter = counter | plus: 1 %}
 <div class="map_canvas" id="map{{counter}}"></div>
 <script type="text/javascript">//<![CDATA[
- 
-  var map;
-  function initialize() {
-    var amphi = new google.maps.LatLng({{ room.latitude }}, {{ room.longitude }});
-    var myOptions = {
-      zoom: 13,
-      center: amphi,
-      mapTypeId: google.maps.MapTypeId.ROADMAP
-    }
-    map = new google.maps.Map(document.getElementById("map{{counter}}"), myOptions);
-    var marker = new google.maps.Marker({
-                          map: map,
-                          position: amphi
-                 });
-  }
-  initialize();
+
+
+// create a map in the "map" div, set the view to a given place and zoom
+var map = L.map('map{{counter}}').setView([{{ room.latitude }}, {{ room.longitude }}], 17);
+
+// add an OpenStreetMap tile layer
+L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(map);
+
+// add a marker in the given location, attach some popup content to it and open the popup
+L.marker([{{ room.latitude }}, {{ room.longitude }}]).addTo(map);
+
 
 //]]></script>
 <br/><br/><br/>

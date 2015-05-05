@@ -6,6 +6,7 @@ date:   2014-12-11
 pending: false
 eventbriteId:
 youtubeId:
+flickrId: 
 sponsors:
  - CGI
  - IPLeanware
@@ -13,10 +14,10 @@ sponsors:
  - SERLI
  - Lojelis
 location: polecommun
+redirect_from:
+ - /xwiki/bin/view/Main/EventTwentyFour/
 
 ---
-
-#### Au programme 
 
 LesFurets.com est passé en 18 mois d'une organisation solide de type "éditeur logiciel" avec une release par mois à une organisation non moins solide en "Continuous Delivery" avec une mise en production par jour de "ce qui est prêt" (sans être bloqué par les développements en cours).
 

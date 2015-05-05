@@ -6,12 +6,13 @@ date:   2011-12-06
 pending: false
 eventbriteId:
 youtubeId:
+flickrId: 
 sponsors:
 location: polecommun
+redirect_from:
+ - /xwiki/bin/view/Main/EventTwo/
 
 ---
-
-#### Au programme
 
 Venez découvrir une alternative légère et puissante aux frameworks Java Entreprise usuels. Play! framework est centré sur la productivité des développeurs et la robustesse grâce à son architechture ReSTFull.
 

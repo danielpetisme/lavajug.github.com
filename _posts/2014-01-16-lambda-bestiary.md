@@ -6,16 +6,17 @@ date:   2014-01-16
 pending: false
 eventbriteId:
 youtubeId:
+flickrId: 
 sponsors:
  - SearchXPR
  - IPLeanware
  - almerys
  - SERLI
 location: polecommun
+redirect_from:
+ - /xwiki/bin/view/Main/EventSixteen/
 
 ---
-
-#### Au programme 
 
 Les lambdas vont changer l'écosystème Java, qu'on le veuille où non, la révolution est en marche. Plutôt qu'un talk sur la syntaxe des lambdas, je vais expliquer pourquoi il y a des lambdas en Java, quelles sont les concepts derrière les lambdas, pourquoi les lambdas sont ce qu'elles sont. Puis dans un second temps, je prendrais les principaux design patterns, command, factory ou visiteur, je montrerais comment leurs implantations peut être simplifiés en utilisant des lambdas et je m'en servirais pour essayer de prédire l'avenir de Java.
 

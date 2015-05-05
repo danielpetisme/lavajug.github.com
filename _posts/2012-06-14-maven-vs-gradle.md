@@ -6,14 +6,15 @@ date:   2012-06-14
 pending: false
 eventbriteId:
 youtubeId:
+flickrId: 
 sponsors:
  - IPLeanware
  - SERLI
 location: polecommun
+redirect_from:
+ - /xwiki/bin/view/Main/EventFour/
 
 ---
-
-#### Au programme 
 
 ##### Maven3 présenté par Arnaud Héritier : Apache Maven 3, tiendra t'il ses promesses ?
 

@@ -6,15 +6,16 @@ date:   2014-09-11
 pending: false
 eventbriteId:
 youtubeId:
+flickrId: 
 sponsors:
  - IPLeanware
  - almerys
  - SERLI
 location: polecommun
+redirect_from:
+ - /xwiki/bin/view/Main/EventTwentyOne/
 
 ---
-
-#### Au programme 
 
 Pourquoi proposer une nouvelle conférence sur les tests ? 
 

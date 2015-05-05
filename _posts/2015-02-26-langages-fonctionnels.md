@@ -6,6 +6,7 @@ date:   2015-02-26
 pending: false
 eventbriteId:
 youtubeId:
+flickrId: 
 sponsors:
  - CGI
  - IPLeanware
@@ -13,10 +14,10 @@ sponsors:
  - SERLI
  - Lojelis
 location: polecommun
+redirect_from:
+ - /xwiki/bin/view/Main/EventTwentySix/
 
 ---
-
-#### Au programme 
 
 Avec la redécouverte des langages fonctionnels, poussés notamment par le besoin
 de parallélisme sur les architectures multi-cœurs et les problématiques de

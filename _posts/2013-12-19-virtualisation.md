@@ -6,16 +6,17 @@ date:   2013-12-19
 pending: false
 eventbriteId:
 youtubeId:
+flickrId: 
 sponsors:
  - CGI
  - IPLeanware
  - SearchXPR
  - SERLI
 location: polecommun
+redirect_from:
+ - /xwiki/bin/view/Main/EventFifthteen/
 
 ---
-
-#### Au programme 
 
 Autrefois associé au Grid Computing, la virtualisation fait beaucoup parlé de lui avec l'avenement du Cloud, dont Amazon AWS fut un précurseur. Mais il existe de nombreux autres débouchés, tant en production qu'en développement. C'est ainsi que j'utilise la virtualisation non seulement pour nos besoins d'infrastructure (tant en interne qu'en externe), mais aussi pour la Q/A et les tests en cours développements. Les développeurs pouvant tester leurs codes á tout instant en simulant une livraison client. Pour ansi dire, tout est virtualisé ! VServer, Xen, QEMU, kQEMU, KVM, OpenVZ, LXC, VirtualBox, VMware, "je crois avoir tout utilisé un moment ou à un autre".
 

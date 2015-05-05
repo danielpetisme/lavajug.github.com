@@ -6,6 +6,7 @@ date:   2015-01-16
 pending: false
 eventbriteId:
 youtubeId:
+flickrId: 
 sponsors:
  - CGI
  - IPLeanware
@@ -13,10 +14,10 @@ sponsors:
  - SERLI
  - Lojelis
 location: polecommun
+redirect_from:
+ - /xwiki/bin/view/Main/EventTwentyFive/
 
 ---
-
-#### Au programme 
 
 Spring Boot est une boîte à outils qui vous permet de développer et déployer vos applications Spring en un temps record, grâce a son approche orientée convention plutôt que configuration.
 

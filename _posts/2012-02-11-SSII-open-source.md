@@ -6,12 +6,13 @@ date:   2012-02-22
 pending: false
 eventbriteId:
 youtubeId:
+flickrId: 
 sponsors:
 location: polecommun
+redirect_from:
+ - /xwiki/bin/view/Main/EventThree/
 
 ---
-
-#### Au programme 
 
 GlassFish : Application versioning et rolling upgrade en haute disponibilité.
 Une fois qu'une application est en production, réaliser une montée de version sans perte de service est délicat et peut rapidement vous donner la migraine. Il faut en général le faire manuellement en montant un cluster, en répliquant l'application et ses sessions, et en jonglant avec le répartiteur de charge et les instances de serveur à chaque montée en version.

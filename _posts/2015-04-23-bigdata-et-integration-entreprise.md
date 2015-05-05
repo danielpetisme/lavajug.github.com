@@ -6,14 +6,15 @@ date:   2015-04-23
 pending: false
 eventbriteId: 16595021155
 youtubeId: "https://www.youtube.com/embed/g_BTrzpJIN4"
+flickrId: 
 sponsors:
  - CGI
  - IPLeanware
 location: polecommun
+redirect_from:
+ - /xwiki/bin/view/Main/EventTwentyEight/
 
 ---
-
-#### Au programme 
 
 Jean-Baptiste, membre et leader de nombreux projets **Apache**, viendra nous présenter
 cet écosystème et sa fondation. Leader sur le projet, il nous présentera Apache **Karaf**,

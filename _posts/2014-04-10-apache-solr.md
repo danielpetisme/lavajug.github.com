@@ -6,15 +6,16 @@ date:   2014-04-10
 pending: false
 eventbriteId:
 youtubeId:
+flickrId: 
 sponsors:
  - IPLeanware
  - almerys
  - SERLI
 location: polecommun
+redirect_from:
+ - /xwiki/bin/view/Main/EventEighteen/
 
 ---
-
-#### Au programme 
 
 Découvrez les outils open source de Search qui ont déjà convaincu de nombreuses entreprises, et qui est proposé par la fondation Apache: Lucene / Solr.  Dans la première partie de soirée, histoire de savoir de quoi on parle, Aurélien vous présentera les projets Lucene et Solr, leurs composants, leur architecture, leurs features, et on saupoudrera tout ça de scalabilité avec SolrCloud.
 

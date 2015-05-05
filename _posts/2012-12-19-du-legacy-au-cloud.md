@@ -6,14 +6,15 @@ date:   2012-12-19
 pending: false
 eventbriteId:
 youtubeId:
+flickrId: 
 sponsors:
  - IPLeanware
  - almerys
 location: polecommun
+redirect_from:
+ - /xwiki/bin/view/Main/EventEight/
 
 ---
-
-#### Au programme 
 
 Il est de plus en plus simple de développer des applications web de zéro, pour les héberger sur le cloud. Mais est-ce aussi simple quand on part de code existant ? Les techniques adaptées à un projet tout neuf sont-elles utilisables de la même façon ?
 

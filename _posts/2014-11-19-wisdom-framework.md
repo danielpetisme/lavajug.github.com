@@ -6,6 +6,7 @@ date:   2014-11-19
 pending: false
 eventbriteId:
 youtubeId:
+flickrId: 
 sponsors:
  - CGI
  - IPLeanware
@@ -13,10 +14,10 @@ sponsors:
  - SERLI
  - Lojelis
 location: polecommun
+redirect_from:
+ - /xwiki/bin/view/Main/EventTwentyThree/
 
 ---
-
-#### Au programme 
 
 Bon, disons que vous voulez développer une application web en Java. Au début, tout va bien, c’est assez petit, relativement simple, un peu de REST, un peu de JavaScript, et puis… et puis ca dérape. Un truc par ci, un feature par la, une nouvelle techno ici. Les applications web sont comme les hamburgers, c’est bon, mais dès que ca devient trop gros, c’est galère à manger. Sans compter les tests, l’intégration continue, la mise en production….
 

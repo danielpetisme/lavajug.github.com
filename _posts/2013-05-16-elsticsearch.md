@@ -6,12 +6,13 @@ date:   2013-05-16
 pending: false
 eventbriteId:
 youtubeId:
+flickrId: 
 sponsors:
 location: polecommun
+redirect_from:
+ - /xwiki/bin/view/Main/EventTwelve/
 
 ---
-
-#### Au programme 
 
 Vous utilisez encore des requêtes SQL pour faire des recherches ? Vos utilisateurs vous reprochent de ne pas pouvoir chercher sur toutes les rubriques ? Votre temps de réponse moyen est supérieur à la demi-seconde avec seulement quelques millions de documents ? Il vous faut 3 jours pour produire des statistiques sur vos données ? Vous rêvez d’offrir une recherche "à la google" sur les données de votre SI ?
 

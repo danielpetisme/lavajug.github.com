@@ -6,17 +6,17 @@ date:   2013-11-07
 pending: false
 eventbriteId:
 youtubeId:
+flickrId: 
 sponsors:
  - CGI
  - IPLeanware
  - SearchXPR
  - SERLI
 location: polecommun
+redirect_from:
+ - /xwiki/bin/view/Main/EventFourteen/
 
 ---
-
-#### Au programme 
-
 
 Après de trop longues vacances le Lava Jug reprend ces activités pour une troisième saisons riche en événements.
 

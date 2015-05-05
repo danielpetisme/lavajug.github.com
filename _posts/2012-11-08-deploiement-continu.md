@@ -6,15 +6,16 @@ date:   2012-11-08
 pending: false
 eventbriteId:
 youtubeId:
+flickrId: 
 sponsors:
  - IPLeanware
  - almerys
  - SERLI
 location: polecommun
+redirect_from:
+ - /xwiki/bin/view/Main/EventSeven/
 
 ---
-
-#### Au programme 
 
 De l'intégration continue au déploiement continu, le pourquoi et le comment :
 

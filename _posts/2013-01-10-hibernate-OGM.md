@@ -6,15 +6,16 @@ date:   2013-01-10
 pending: false
 eventbriteId:
 youtubeId:
+flickrId: 
 sponsors:
  - IPLeanware
  - almerys
  - SearchXPR
 location: polecommun
+redirect_from:
+ - /xwiki/bin/view/Main/EventNine/
 
 ---
-
-#### Au programme 
 
 Hibernate OGM explore comment réutiliser Java Persistence et son API familière pour persister les entités dans une base NoSQL.
 

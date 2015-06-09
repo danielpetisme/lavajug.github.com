@@ -1,7 +1,7 @@
 ---
 
 layout: event
-title:  "Soirée objets connectés et soudures"
+title:  "IoT : J'ai connecté ma cave a mon garage"
 date:   2015-06-18
 pending: true
 eventbriteId: 17317217263

@@ -3,9 +3,9 @@
 layout: event
 title:  "Applications Concurrentes Polyglottes avec Vert.x"
 date:   2015-05-21
-pending: true
+pending: false
 eventbriteId: 16932787423
-youtubeId:
+youtubeId: https://www.youtube.com/embed/WHmFtTvhJ4I
 flickrId: 
 sponsors:
  - CGI

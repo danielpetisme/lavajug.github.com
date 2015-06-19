@@ -3,9 +3,9 @@
 layout: event
 title:  "IoT : J'ai connecté ma cave a mon garage"
 date:   2015-06-18
-pending: true
+pending: false
 eventbriteId: 17317217263
-youtubeId:
+youtubeId: https://www.youtube.com/embed/nMnJ9iSr3X4
 flickrId: 
 sponsors:
  - CGI

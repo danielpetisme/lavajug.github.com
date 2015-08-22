@@ -10,7 +10,7 @@ N'hésitez pas à nous contacter : si vous avez des suggestions ou des commentai
 
 Vous pouvez envoyer un mail à l'équipe du Lava JUG :
 
-[contect@lavajug.org](contact@lavajug.org)
+[contact@lavajug.org](mailto:contact@lavajug.org)
 
 ou contacter directement les membres exécutifs du Lava JUG: 
 

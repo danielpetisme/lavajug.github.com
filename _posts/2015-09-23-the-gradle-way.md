@@ -3,9 +3,9 @@
 layout: event
 title:  "Convention over configuration: the Gradle way"
 date:   2015-09-23
-pending: true
+pending: false
 eventbriteId: 18625258650
-youtubeId:
+youtubeId: https://www.youtube.com/embed/OQkdtLi4P4g
 flickrId: 
 sponsors:
  - CGI

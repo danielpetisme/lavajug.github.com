@@ -4,7 +4,7 @@ layout: event
 title: "Git & GitHub & Open Source"
 date:   2015-11-19
 pending: true
-eventbriteId:
+eventbriteId: 19346604214
 youtubeId:
 flickrId: 
 sponsors:

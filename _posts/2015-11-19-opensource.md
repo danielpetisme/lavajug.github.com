@@ -4,7 +4,7 @@ layout: event
 title: "Git & GitHub & Open Source"
 date:   2015-11-19
 pending: true
-eventbriteId: 19346604214
+eventbriteId:
 youtubeId:
 flickrId: 
 sponsors:
@@ -14,6 +14,8 @@ sponsors:
 location: polecommun
 
 ---
+
+## Attention! L'événement est reporté!
 
 Vous n'en avez peut-être pas conscience mais beaucoup de technologies sont _Open Source_, c'est-à-dire
 que des gens (et des entreprises) prennent du temps pour collaborer ensemble sur des projets ouverts.

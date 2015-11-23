@@ -2,20 +2,18 @@
 
 layout: event
 title: "Git & GitHub & Open Source"
-date:   2015-11-19
+date:   2015-11-26
 pending: true
-eventbriteId:
+eventbriteId: 19681351452
 youtubeId:
 flickrId: 
 sponsors:
  - CGI
  - IPLeanware
  - almerys
-location: polecommun
+location: prizee
 
 ---
-
-## Attention! L'événement est reporté!
 
 Vous n'en avez peut-être pas conscience mais beaucoup de technologies sont _Open Source_, c'est-à-dire
 que des gens (et des entreprises) prennent du temps pour collaborer ensemble sur des projets ouverts.

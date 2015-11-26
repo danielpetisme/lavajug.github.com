@@ -20,7 +20,7 @@ que des gens (et des entreprises) prennent du temps pour collaborer ensemble sur
 
 Grâce à Git (un outil de gestion de versions) et surtout à [GitHub](https://github.com) (une plateforme
 collaborative faisant la promotion de l'Open Source et s'appuyant sur Git), l'_Open Source_ s'est démocratisé
-et tout le monde peut contributer à un monde meilleur.
+et tout le monde peut contribuer à un monde meilleur.
 
 Dans cette présentation, vous entendrez parler de Git avec des astuces pour travailler efficacement. Je
 vous parlerai de GitHub (et GitLab) pour collaborer sur des projets existants et/ou nouveaux, que vous

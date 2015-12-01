@@ -3,10 +3,11 @@
 layout: event
 title: "Git & GitHub & Open Source"
 date:   2015-11-26
-pending: true
+pending: false
 eventbriteId: 19681351452
 youtubeId:
 flickrId: 
+speakerdeckId: 39bf8e5897fa4b059cbc252d0ad9177b
 sponsors:
  - CGI
  - IPLeanware

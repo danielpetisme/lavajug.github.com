@@ -47,12 +47,13 @@ title: Bienvenue au LavaJUG
                               <a href="{{site.data.sponsors[sponsor].url}}" target="_blank"><img src="{{site.data.sponsors[sponsor].logo}}" alt="{{sponsor}}" ></a>
                           {% endfor%}
                           </div>
+			  {% if post.location  %}
                           <h4>Comment venir</h4>
                           <div>
                             {% assign room = site.data.rooms[post.location] %}
                             {% include room.html %}
                           </div>
-
+			  {% endif %}
                           {% if post.eventbriteId  %}
                           <br/>
                           <h4>Inscription</h4>                            

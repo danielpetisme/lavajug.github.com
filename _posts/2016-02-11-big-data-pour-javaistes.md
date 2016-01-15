@@ -8,6 +8,7 @@ eventbriteId:
 youtubeId:
 flickrId: 
 sponsors:
+ - creativeData
  - CGI
  - IPLeanware
  - almerys
@@ -22,7 +23,7 @@ Pour chaque technologie, on verra les points principaux et surtout un exemple av
 ### Youen Chene
 
 Passionné d’informatique et de programmation depuis le CE2 (génération MO5/TO7), Youen est un des activistes au sein du Normandy JUG ([@normandyjug](https://twitter.com/normandyjug)), Devoxx4Kids et Codeurs en Seine ([@codeursenseine](https://twitter.com/codeursenseine)).
-Après 7 ans de prestation et de consulting en région parisienne, il est passé développeur-manager chez Masternaut puis maintenant CTO chez [Creative Data](https://www.creativedata.fr/) (où est développée Saagie, la plateforme data prête à l’emploi).
+Après 7 ans de prestation et de consulting en région parisienne, il est passé développeur-manager chez Masternaut puis maintenant CTO chez [Creative Data](https://www.creativedata.fr/) (où est développée [Saagie, la plateforme data prête à l’emploi](http://www.saagie.com)).
 
 Twitter: [@youen_chene](https://twitter.com/youen_chene)
 

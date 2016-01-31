@@ -4,7 +4,7 @@ layout: event
 title: "Big Data pour les Javaistes et le reste d’entre nous!"
 date:   2016-02-11
 pending: true
-eventbriteId: 
+eventbriteId: 21156561846
 youtubeId:
 flickrId: 
 sponsors:

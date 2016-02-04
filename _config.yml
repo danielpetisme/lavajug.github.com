@@ -6,8 +6,8 @@ url: http://www.lavajug.org
 
 paginate_path: "/events/page:num/"
 
-markdown: redcarpet
-highlighter: pygments
+markdown: kramdown
+highlighter: rouge
 paginate: 5
 
 navigation:
@@ -30,6 +30,7 @@ syndication:
    url: https://plus.google.com/102271468498818981170/about
  - name: github
    url: https://github.com/LavaJUG
+
 
 gems:
   - jekyll-redirect-from

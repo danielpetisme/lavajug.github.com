@@ -9,6 +9,7 @@ paginate_path: "/events/page:num/"
 markdown: kramdown
 highlighter: rouge
 paginate: 5
+future: true
 
 navigation:
  - title: Accueil
@@ -34,6 +35,7 @@ syndication:
 
 gems:
   - jekyll-redirect-from
+  - jekyll-paginate
 # - jekyll-compass
 # - normalize-scss
 # - susy

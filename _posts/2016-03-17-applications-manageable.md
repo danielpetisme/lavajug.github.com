@@ -3,9 +3,9 @@
 layout: event
 title: "Des applications Java #?!@ing Manageable"
 date:   2016-03-17
-pending: true
+pending: false
 eventbriteId: 22729648992
-youtubeId: 
+youtubeId: https://www.youtube.com/embed/jWha8GJu3Xs
 flickrId: 
 sponsors:
  - CGI

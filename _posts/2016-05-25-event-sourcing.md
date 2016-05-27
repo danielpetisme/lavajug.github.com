@@ -3,10 +3,10 @@
 layout: event
 title: "CQRS & event sourcing"
 date:   2016-05-25
-pending: true
+pending: false
 eventbriteId: 25502204781
-youtubeId: 
-flickrId: 
+youtubeId: https://www.youtube.com/embed/4zYl5cnH0_s
+flickrId: 72157668123628470
 sponsors:
  - CGI
  - IPLeanware

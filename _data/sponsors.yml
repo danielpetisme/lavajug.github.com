@@ -38,3 +38,7 @@ CreativeData:
   url: https://www.creativedata.fr/ 
   logo: /assets/images/sponsors/logo-creativedata.png
   premium: 
+DevoxxFR:
+  url: https://www.devoxx.fr/
+  logo: /assets/images/sponsors/logo-devoxxfr.png
+  premium: true

@@ -3,7 +3,7 @@
 layout: event
 title: "Containers, VMs, Processes... Isolation, performances, I/O... How all of these technologies work and compare to each other? Deep dive and learn about your Operating System."
 date:   2016-11-14
-pending: true
+pending: false
 eventbriteId: 29188102400
 youtubeId:
 flickrId: 

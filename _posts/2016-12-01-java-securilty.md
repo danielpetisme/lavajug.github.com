@@ -3,9 +3,9 @@
 layout: event
 title: "New Security Controls in Java 8 and 9."
 date:   2016-12-01
-pending: true
+pending: false
 eventbriteId: 29638051209
-youtubeId:
+youtubeId: https://www.youtube.com/embed/Auem5DQI9G4
 flickrId: 
 sponsors:
  - CGI

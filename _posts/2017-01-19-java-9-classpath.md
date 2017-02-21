@@ -3,9 +3,9 @@
 layout: event
 title: "Java 9 ou comment Jigsaw va tuer le classpath"
 date:   2017-01-19
-pending: true
+pending: false
 eventbriteId: 31024195203
-youtubeId:
+youtubeId: https://www.youtube.com/embed/onKoQNF3c4E
 flickrId: 
 sponsors:
  - CGI

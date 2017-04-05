@@ -5,6 +5,10 @@ Sopra:
 IPLeanware:
   url: http://www.ipleanware.com/
   logo: /assets/images/sponsors/logo-ipleanware.png
+  premium: false
+Braincube:
+  url: http://braincube.com/
+  logo: /assets/images/sponsors/logo-braincube.png
   premium: true
 SERLI:
   url: http://www.serli.com/

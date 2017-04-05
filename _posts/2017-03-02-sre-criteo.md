@@ -3,9 +3,9 @@
 layout: event
 title: "Vis ma vie de Site Reliability Engineer"
 date:   2017-03-02
-pending: true
+pending: false
 eventbriteId: 32251932398
-youtubeId:
+youtubeId: https://www.youtube.com/embed/tEb6cld8C9w
 flickrId: 
 sponsors:
  - CGI

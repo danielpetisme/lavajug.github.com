@@ -29,8 +29,12 @@
                           </div>
                           <h4>Comment venir</h4>
                           <div>
+                          {% if page.location  %}
                             {% assign room = site.data.rooms[page.location] %}
                             {% include room.html %}
+                          {% else %}
+                            Plus d'information à venir...
+                          {% endif %}
                           </div>
 
                           {% if page.eventbriteId  %}

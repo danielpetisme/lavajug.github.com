@@ -3,7 +3,7 @@
 layout: event
 title: "Workshop/Lab Let's React"
 date:   2017-06-09
-pending: true
+pending: false
 eventbriteId: 34986140488
 youtubeId:
 flickrId: 

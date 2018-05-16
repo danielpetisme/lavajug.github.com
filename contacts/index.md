@@ -2,7 +2,7 @@
 layout: single
 ---
 
-##Contact
+## Contact
 
 Nous voulons que le Lava JUG soit un espace d'échange qui réponde aux attentes de chacun. Nous souhaitons connaître vos impressions sur ce que nous faisons et répondre à vos toute questions.
 

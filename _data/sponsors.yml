@@ -21,7 +21,7 @@ CGI:
 almerys:
   url: http://www.almerys.com/
   logo: /assets/images/sponsors/logo-almerys.jpg
-  premium: true
+  premium: 
 SearchXPR:
   url: http://www.searchxpr.com/
   logo: /assets/images/sponsors/logo-searchxpr.png

@@ -3,7 +3,7 @@
 layout: event
 title: "Tirez le meilleur de vos APIs avec Gravitee.io"
 date:   2018-03-15
-pending: true
+pending: false
 eventbriteId: 43900965971
 youtubeId:
 flickrId:

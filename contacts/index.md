@@ -19,4 +19,5 @@ ou contacter directement les membres exécutifs du Lava JUG:
 - [Sylvain Desgrais](mailto:sylvain@lavajug.org)
 - [Thomas Maurel](mailto:thomas@lavajug.org)
 - [Yannick Loiseau](mailto:yannick@lavajug.org)
-- [Daniel Pétisme](mailto:daniel@lavajug.org)
+- [Arnaud Blandamour](mailto:arnaud@lavajug.org)
+- [Christophe Prugnaud](mailto:christophe@lavajug.org)

@@ -4,7 +4,7 @@
 - name: Aspose
   url: http://www.aspose.com/
   logo: /assets/images/partenaires/logo-aspose.png
-- name: UBP
+- name: UCA
   url: http://www.uca.fr/
   logo: /assets/images/partenaires/logo-uca.png
 - name: OReilly
@@ -16,7 +16,3 @@
 - name: JetBrains
   url: http://www.jetbrains.com/
   logo: /assets/images/partenaires/logo-jetbrain.jpg
-- name: be-ys
-  url: https://www.be-ys.com/
-  logo: /assets/images/partenaires/logo-beys.png
-

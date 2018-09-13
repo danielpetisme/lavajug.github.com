@@ -12,7 +12,7 @@ gratuites et ouvertes à tous. Une autre finalité est la mise en relation de ce
 
       <strong>S'inscrire à la mailing list:</strong>
       <br/><br/>
-      <form action="http://groups.google.com/group/lava-jug/boxsubscribe">
+      <form action="https://groups.google.com/group/lava-jug/boxsubscribe">
         <label for="email">eMail: </label>
         <br/>
         <input name="email"  type="text"/>

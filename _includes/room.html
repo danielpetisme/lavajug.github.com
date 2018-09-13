@@ -2,12 +2,14 @@
 <br/>
 <p>
 <!--L'événement aura lieu dans l'Amphi 2 du pôle commun Polytech-ISIMA (<a href="/assets/ubp-plan-cezeaux.pdf" target="_blank">Batiment 13 sur le plan</a>) sur le campus universitaire des Cézeaux.-->
-L'événement aura lieu dans l'Amphi Modis, 22 Allée Alan Turing, 63000 Clermont-Ferrand.
+<!--L'événement aura lieu dans l'Amphi Modis, 22 Allée Alan Turing, 63000 Clermont-Ferrand.-->
+L'événement aura lieu dans les locaux de almerys 46 rue du Ressort 63100 Clermont Ferrand.
+
 </p>
 
 <br/><br/>
 {% if loaded == false %}
-    <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
     {% assign loaded = true %} 
 {% endif %}
 
@@ -20,7 +22,7 @@ L'événement aura lieu dans l'Amphi Modis, 22 Allée Alan Turing, 63000 Clermon
 var map = L.map('map{{counter}}').setView([{{ room.latitude }}, {{ room.longitude }}], 17);
 
 // add an OpenStreetMap tile layer
-L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(map);
 

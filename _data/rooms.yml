@@ -10,3 +10,12 @@ be-ys:
   latitude: 45.7871495
   longitude: 3.1121822
   image: /assets/images/be-ys.jpg
+pascalis:
+  latitude: 45.7516578
+  longitude: 3.0778401
+  image: /assets/images/pascalis.jpg
+bivouac:
+  latitude: 45.7949697
+  longitude: 3.1144981
+  image: /assets/images/bivouac.png
+

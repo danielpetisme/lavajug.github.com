@@ -12,7 +12,7 @@ sponsors:
  - Braincube
  - DevoxxFR
  - be-ys
-location: pascalis
+location: be-ys
 
 ---
 

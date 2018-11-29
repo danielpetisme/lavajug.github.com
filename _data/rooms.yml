@@ -2,20 +2,28 @@ polecommun:
   latitude: 45.759748
   longitude: 3.110418
   image: /assets/images/polecommun.jpg
+  description: > 
+    L'événement aura lieu dans l'Amphi 2 du pôle commun Polytech-ISIMA
+    (<a href="/assets/ubp-plan-cezeaux.pdf" target="_blank">Batiment 13 sur le plan</a>) 
+    sur le campus universitaire des Cézeaux.
 prizee:
   latitude: 45.759048
   longitude: 3.130117
   image: /assets/images/prizee.jpg
+  description: "L'événement aura lieu dans l'Amphi Modis, 22 Allée Alan Turing, 63000 Clermont-Ferrand."
 be-ys:
   latitude: 45.7871495
   longitude: 3.1121822
   image: /assets/images/be-ys.jpg
+  description: "L'événement aura lieu dans les locaux de almerys 46 rue du Ressort 63100 Clermont Ferrand."
 pascalis:
   latitude: 45.759810
   longitude: 3.130970
   image: /assets/images/pascalis.jpg
+  description: "L'événement aura lieu dans les locaux de Pascalis 8 Allée Evariste Galois, 63000 Clermont-Ferrand."
 bivouac:
   latitude: 45.794992
   longitude: 3.116735
   image: /assets/images/bivouac.png
+  description: "L'événement aura lieu dans les locaux de l'hôtel de région 59 Boulevard Léon Jouhaux, 63000 Clermont-Ferrand."
 

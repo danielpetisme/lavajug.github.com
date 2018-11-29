@@ -2,7 +2,10 @@ polecommun:
   latitude: 45.759748
   longitude: 3.110418
   image: /assets/images/polecommun.jpg
-  description: "L'événement aura lieu dans l'Amphi 2 du pôle commun Polytech-ISIMA (<a href="/assets/ubp-plan-cezeaux.pdf" target="_blank">Batiment 13 sur le plan</a>) sur le campus universitaire des Cézeaux."
+  description: > 
+    L'événement aura lieu dans l'Amphi 2 du pôle commun Polytech-ISIMA
+    (<a href="/assets/ubp-plan-cezeaux.pdf" target="_blank">Batiment 13 sur le plan</a>) 
+    sur le campus universitaire des Cézeaux.
 prizee:
   latitude: 45.759048
   longitude: 3.130117

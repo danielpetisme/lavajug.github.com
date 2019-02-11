@@ -50,3 +50,7 @@ be-ys:
   url: https://www.be-ys.com/
   logo: /assets/images/sponsors/logo-beys.png
   premium: true
+bivouac:
+  url: https://www.lebivouac.com/
+  logo: /assets/images/sponsors/logo-bivouac.jpg
+  premium: false

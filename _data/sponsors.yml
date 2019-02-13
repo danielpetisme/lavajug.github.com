@@ -54,3 +54,7 @@ bivouac:
   url: https://www.lebivouac.com/
   logo: /assets/images/sponsors/logo-bivouac.jpg
   premium: false
+harvest:
+  url: https://www.harvest.fr/
+  logo: /assets/images/sponsors/logo-harvest.png
+  premium: true

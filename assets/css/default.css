@@ -182,7 +182,9 @@ margin-right: auto;
 }
 
 .sponsors a {
-    margin: 5px 35px;
+		margin-top: 5px;
+		margin-right: 35px;
+		margin-bottom: 5px;
 }
 .sponsors img {
     width: 120px;

@@ -10,6 +10,7 @@ flickrId:
 sponsors:
  - bivouac
  - be-ys
+ - coffreo
  - clermontech
  - muginclermont
 location: bivouac

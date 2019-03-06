@@ -1,26 +1,25 @@
 ---
 
 layout: event
-title: "7 conseils pour démarrer avec Spark"
-date:   2019-02-28
+title: "Little Big Event#1 - Typescript"
+date:   2019-03-21
 pending: true
-eventbriteId: 56345106731
+eventbriteId: 58295613750
 youtubeId: 
 flickrId:
 sponsors:
  - bivouac
- - Braincube
  - be-ys
- - harvest
 location: bivouac
 
 ---
 
-Je suis entrée dans le monde de la data avec Spark. Il y a eu des moments clairement plus ou moins compliqués. Au début, c'était le Far West : un monde inconnu et dangereux (il ne fallait pas casser la production).
-Avec ce retour d'expérience, je vous propose de vous dire ce que j'aurais aimé qu'on me dise avant de me lancer. Je promets aussi de vous parler de ce que bien heureusement mes camarades plus expérimentés m'ont aussi donné comme astuces pour m'aider dans ce grand saut.
-Ce sera donc une entrée en matière dans le monde de Spark au travers de 7 conseils qui m'ont été ou m'auraient été bien pratiques pour démarrer.
+L’engouement autour de TypeScript ne cesse de croitre depuis la version 2.0. En quelques mois, le langage est devenu un incontournable dans les entreprises, mais aussi dans la communauté open source. Au départ considéré comme un énième langage, il a atteint depuis quelques semaines le score symbolique du million de téléchargement journalier sur NPM, le gestionnaire de packages de Node.js.
 
-### Nastasia Saby
+Comment TypeScript en est-il arrivé là ?
 
-Nastasia Saby est développeuse à Zenika Lyon et passionnée de programmation en général. Elle est fan de Software Craftsmanship et de Big Data. Son parcours a commencé dans le monde PHP avant d'embrasser celui exaltant de la Big Data. Intervenante régulière dans les meetups et les conférences elle s'intéresse particulièrement à Apache Spark ces derniers temps.
+C’est grâce à un système de typage particulièrement avancé qu’il s’est taillé la réputation d’être puissant, pragmatique et fiable ! Ces nombreuses qualités masquent parfois une certaine complexité qui, si mal maîtrisée, peuvent en décourage plus d’un ! C’est pourquoi dans cette présentation, après une introduction sur le langage, nous nous pencherons sur certaines capacités de TypeScript autour de la manipulation des types.
 
+### Sylvain Pontoreau 
+
+Sylvain est ingénieur chez Microsoft au sein de l’équipe Apps. Au quotidien il intervient dans les entreprises en tant que spécialiste des technologies web, plus particulièrement autour de TypeScript, Node.js et Azure. Passionné par le développement web, c’est un membre actif de la communauté TypeScript et l’un des organisateurs du Meetup Paris TypeScript. Depuis deux ans, il participe activement en tant que speakers à des événements afin de transmettre sa passion et ses connaissances !

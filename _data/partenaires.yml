@@ -1,18 +1,28 @@
 - name: XWiki
   url: http://www.xwiki.com/
   logo: /assets/images/partenaires/logo-xwiki.png
+  premium: false
 - name: Aspose
   url: http://www.aspose.com/
   logo: /assets/images/partenaires/logo-aspose.png
+  premium: false
 - name: UCA
   url: http://www.uca.fr/
   logo: /assets/images/partenaires/logo-uca.png
+  premium: false
 - name: OReilly
   url: http://www.oreilly.com/pub/cpc/9348
   logo: /assets/images/partenaires/logo-oreilly.gif
+  premium: true
 - name: JRebel
   url: http://www.zeroturnaround.com/jrebel/
   logo: /assets/images/partenaires/logo-jrebel.jpg
+  premium: false
 - name: JetBrains
   url: http://www.jetbrains.com/
   logo: /assets/images/partenaires/logo-jetbrain.jpg
+  premium: true
+- name: github
+  url: https://github.com/
+  logo: /assets/images/partenaires/logo-github.jpg
+  premium: true

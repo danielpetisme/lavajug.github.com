@@ -58,3 +58,11 @@ harvest:
   url: https://www.harvest.fr/
   logo: /assets/images/sponsors/logo-harvest.png
   premium: true
+clermontech:
+  url: https://www.clermontech.org/
+  logo: /assets/images/sponsors/logo-clermontech.png
+  premium: false
+muginclermont:
+  url: https://http://muginclermont.azurewebsites.net/
+  logo: /assets/images/sponsors/logo-muginclermont.png
+  premium: false

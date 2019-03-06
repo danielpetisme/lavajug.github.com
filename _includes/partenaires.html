@@ -3,7 +3,7 @@
         <h1>Partenaires</h1>
     </div>
     {% for partenaire in site.data.partenaires %}
-        {% if sponsor[1].premium %}
+        {% if partenaire[1].premium %}
         <a href="{{ partenaire.url }}" target="_blank">
             <img src="{{ partenaire.logo }}" alt="{{ partenaire.name }}"/>
         </a>

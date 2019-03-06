@@ -58,3 +58,7 @@ harvest:
   url: https://www.harvest.fr/
   logo: /assets/images/sponsors/logo-harvest.png
   premium: true
+harvest:
+  url: https://www.clermontech.org/
+  logo: /assets/images/sponsors/logo-clermontech.png
+  premium: false

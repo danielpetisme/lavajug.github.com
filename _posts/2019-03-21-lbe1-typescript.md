@@ -14,6 +14,8 @@ location: bivouac
 
 ---
 
+Mug in Clermont, Clermont’ech et le LavaJUG s’associent pour la première fois afin de vous proposer une soirée exceptionnelle : Le Little Big Event#1.
+
 L’engouement autour de TypeScript ne cesse de croitre depuis la version 2.0. En quelques mois, le langage est devenu un incontournable dans les entreprises, mais aussi dans la communauté open source. Au départ considéré comme un énième langage, il a atteint depuis quelques semaines le score symbolique du million de téléchargement journalier sur NPM, le gestionnaire de packages de Node.js.
 
 Comment TypeScript en est-il arrivé là ?

@@ -45,7 +45,7 @@ CreativeData:
 DevoxxFR:
   url: https://www.devoxx.fr/
   logo: /assets/images/sponsors/logo-devoxxfr.png
-  premium: true
+  premium: false
 be-ys:
   url: https://www.be-ys.com/
   logo: /assets/images/sponsors/logo-beys.png

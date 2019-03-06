@@ -12,7 +12,7 @@
   premium: false
 - name: OReilly
   url: http://www.oreilly.com/pub/cpc/9348
-  logo: /assets/images/partenaires/logo-oreilly.gif
+  logo: /assets/images/partenaires/logo-oreilly.png
   premium: true
 - name: JRebel
   url: http://www.zeroturnaround.com/jrebel/
@@ -20,7 +20,7 @@
   premium: false
 - name: JetBrains
   url: http://www.jetbrains.com/
-  logo: /assets/images/partenaires/logo-jetbrain.jpg
+  logo: /assets/images/partenaires/logo-jetbrain.png
   premium: true
 - name: github
   url: https://github.com/

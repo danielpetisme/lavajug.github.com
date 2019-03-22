@@ -11,8 +11,8 @@ Lévénement aura lieu dans l'Amphi 2 du pôle commun Polytech-ISIMA (<a href="/
 <br/><br/>
 
 <div id="map_canvas"></div>
-<script type="text/javascript">//<![CDATA[
- 
+<script type="text/javascript">
+//<![CDATA[
   var map;
   function initialize() {
     var amphi = new google.maps.LatLng(45.759748,3.110418);
@@ -27,9 +27,7 @@ Lévénement aura lieu dans l'Amphi 2 du pôle commun Polytech-ISIMA (<a href="/
                           position: amphi
                  });
   }
-  initialize();
-
-//]]></script>
+  initialize();//]]>
+</script>
 <br/><br/><br/>
-<p><img src="/assets/images/polecommun.jpg" height="294" style="display: block; margin-left: auto; margin-right: auto;" width="450" alt="polecommun.jpg"></p>
-
+<p class="center"><img src="/assets/images/polecommun.jpg" height="294" width="450" alt="polecommun.jpg"></p>

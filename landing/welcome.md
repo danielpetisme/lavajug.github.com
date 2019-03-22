@@ -8,8 +8,7 @@ Le Lava JUG est une une association créée pour partager nos expériences des T
 L'objectif premier est de réunir les acteurs du bassin clermontois (entreprise, université, étudiants, indépendant) à travers notamment l'organisation de soirées thématiques,
 gratuites et ouvertes à tous. Une autre finalité est la mise en relation de ces acteurs, afin de créer des synergies au sein de l'éco-systéme Java de la région Clermontoise.
 
-<div style="width:210px;margin:50px auto;text-align:center;">
-
+<div class="ml">
       <strong>S'inscrire à la mailing list:</strong>
       <br/><br/>
       <form action="https://groups.google.com/group/lava-jug/boxsubscribe">
@@ -21,7 +20,7 @@ gratuites et ouvertes à tous. Une autre finalité est la mise en relation de ce
       </form>
 </div>
 
-<p align="center"><img src="/assets/images/jug.png" style="margin-right: auto; margin-left: auto; display: block;" alt="jug.png"></p>
+<p class="center"><img src="/assets/images/jug.png" alt="jug.png"></p>
 
-<p style="text-align:center;">Contactez nous: <strong>contact@lavajug.org</strong></p>
+<p class="center">Contactez nous: <strong>contact@lavajug.org</strong></p>
 

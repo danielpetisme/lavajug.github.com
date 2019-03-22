@@ -3,7 +3,7 @@
 layout: event
 title: "Little Big Event#1 - Typescript"
 date:   2019-03-21
-pending: true
+pending: false
 eventbriteId: 58295613750
 youtubeId: 
 flickrId:

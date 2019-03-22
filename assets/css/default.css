@@ -25,6 +25,20 @@ body {
     min-width: 560px;
 }
 
+p.center{
+	text-align: center;
+}
+
+p.center img{
+	margin-right: auto; margin-left: auto; display: block;
+}
+
+.ml{
+	width:210px;
+	margin:50px auto;
+	text-align:center;
+}
+
 a {
 	color: #5C7713;
 	text-decoration: none;

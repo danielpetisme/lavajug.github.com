@@ -362,13 +362,13 @@ fieldset[disabled] .btn-default.active {
 }
 
 .devoxx{
-	width: 100%;
+	width: 100%!important;
 	margin: 0 0 0 0;
 	padding: 0 25% 0% 0%;
 }
 
 .mixit{
-	width: 70%;
+	width: 70%!important;
 	margin: 0 0;
 	padding: 1% 1%;
 	background-color: #2c233d;

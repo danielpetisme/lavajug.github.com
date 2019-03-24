@@ -10,14 +10,16 @@ N'hésitez pas à nous contacter : si vous avez des suggestions ou des commentai
 
 Vous pouvez envoyer un mail à l'équipe du Lava JUG :
 
-[contact@lavajug.org](mailto:contact@lavajug.org)
+contact at lavajug.org
 
 ou contacter directement les membres exécutifs du Lava JUG: 
 
-- [Pierre Colomb](mailto:pierre@lavajug.org)
-- [Olivier Coupelon](mailto:olivier@lavajug.org)
-- [Sylvain Desgrais](mailto:sylvain@lavajug.org)
-- [Thomas Maurel](mailto:thomas@lavajug.org)
-- [Yannick Loiseau](mailto:yannick@lavajug.org)
-- [Arnaud Blandamour](mailto:arnaud@lavajug.org)
-- [Christophe Prugnaud](mailto:christophe@lavajug.org)
+- Pierre Colomb : pierre at lavajug.org
+- Olivier Coupelon : olivier at lavajug.org
+- Sylvain Desgrais : sylvain at lavajug.org
+- Thomas Maurel : thomas at lavajug.org
+- Yannick Loiseau : yannick at lavajug.org
+- Arnaud Blandamour : arnaud at lavajug.org
+- Christophe Prugnaud : christophe at lavajug.org
+
+(Il faut remplacer "at" par "@").

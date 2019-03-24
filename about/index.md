@@ -2,7 +2,7 @@
 layout: single
 ---
 
-## Qu’est ce que le LavaJUG ?
+## Qu’est ce que le Lava JUG ?
 Un JUG est une communauté indépendante, constituée en association sans but lucratif, qui rassemble les acteurs régionaux (industriels, universitaires, chercheurs, étudiants, recruteurs…) qui partagent un intérêt pour lʼinformatique et sur les technologies Java en particulier.
 
 Lʼassociation réunit régulièrement ses membres pour échanger leurs idées, points de vue et expériences relatifs à ces technologies. Ces échanges peuvent prendre la forme de conférences (présentation, tutoriel, retour dʼexpérience, ...) mais aussi de tables rondes, démonstrations, ateliers… selon lʼintervenant et le sujet.

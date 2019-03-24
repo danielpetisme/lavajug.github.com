@@ -18,7 +18,7 @@ redirect_from:
 
 ---
 
-Après de trop longues vacances le Lava Jug reprend ces activités pour une troisième saisons riche en événements.
+Après de trop longues vacances le Lava JUG reprend ces activités pour une troisième saisons riche en événements.
 
 Cette année nous avons prévu de vous offrir 8 sessions en gardant le
 même format (conférences animées par des experts reconnus en France et

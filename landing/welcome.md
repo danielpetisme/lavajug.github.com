@@ -1,6 +1,6 @@
 ---
 type: landing
-title: Bienvenue au LavaJUG
+title: Bienvenue au Lava JUG
 order: 1
 ---
 
@@ -22,5 +22,5 @@ gratuites et ouvertes à tous. Une autre finalité est la mise en relation de ce
 
 <p class="center"><img src="/assets/images/jug.png" alt="jug.png"></p>
 
-<p class="center">Contactez nous: <strong>contact@lavajug.org</strong></p>
+<p class="center">Contactez nous: <strong>contact at lavajug.org</strong> (remplacez "at" par "@").</p>
 

@@ -370,6 +370,9 @@ fieldset[disabled] .btn-default.active {
 		padding: 2em 5%;
 		font-size: 1.0em;
 	}
+	.container {
+		width: 100%;
+	}
 	.main , .side {
 		width: 100%;
 		float: left;

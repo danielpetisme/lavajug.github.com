@@ -43,7 +43,7 @@ a:hover {
 }
 
 .container {
-	width: 1320px;
+	width: 1300px;
 	margin: 0 auto;
 	position: relative;
 	margin-top: 14em;
@@ -55,7 +55,7 @@ a:hover {
 }
 
 .main {
-	width: 880px;
+	width: 855px;
 	padding: 0 1em 1em;
 	float: left;
 }
@@ -340,10 +340,10 @@ fieldset[disabled] .btn-default.active {
 
 @media screen and (max-width: 1320px) {
 	.container {
-		width: 1000px;
+		width: 980px;
 	}
 	.main{
-		width: 750px;
+		width: 730px;
 	}
 	.side {
 		width: 250px;

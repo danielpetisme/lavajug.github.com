@@ -97,7 +97,6 @@
 		width: 100%;
 	}
 
-	.homelink,
 	.header h1,
 	.header nav,
     .header img {
@@ -107,7 +106,9 @@
 		float: none;
 	}
 
-	.homelink,
+	.homelink{
+		display: none;
+	}
 	.header h1,
 	.header nav a,
 	.header img {
@@ -116,18 +117,15 @@
 		transition: all 0s;
 	}
 
-	.homelink,
 	.header h1,
 	.header nav a {
 		line-height: 75px;
 	}
 
-	.homelink,
 	.header h1 {
 		font-size: 2em;
 	}
 	
-	.homelink,
 	.header img {
 		width: 70px;
 		padding-top: 10px;

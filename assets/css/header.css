@@ -15,7 +15,7 @@
 .header .inner {
 	width: 1300px;
 	margin: 0 auto;
-	padding: 0 1.875em;
+	padding: 0 20px;
 }
 
 .homelink,
@@ -26,7 +26,6 @@
 	position: relative;
 }
 
- /* We just have one-lined elements, so we'll center the elements with the line-height set to the height of the header */
 .homelink,
 .header h1,
 .header nav a {
@@ -37,7 +36,7 @@
 .header h1 {
 	color: #aaa;
 	font-size: 2.5em;
-	margin: 0 0 0 0.5em;
+	margin: 0 0 0 10px;
 	float: left;
 }
 .homelink:hover{
@@ -98,7 +97,6 @@
 }
 
 @media screen and (max-width: 1000px) {
-	
 	.header .inner {
 		width: 100%;
 	}

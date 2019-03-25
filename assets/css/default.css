@@ -40,6 +40,10 @@ a {
 a:hover {
 	color: #94C11F;
 }
+.content p,
+.block p{
+	text-align: justify;
+}
 
 .container {
 	width: 1300px;

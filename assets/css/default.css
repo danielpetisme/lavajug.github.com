@@ -343,6 +343,7 @@ fieldset[disabled] .btn-default.active {
 	margin: 5px;
 	overflow: hidden;
 }
+
 @media screen and (max-width: 1320px) {
 	.container {
 		width: 980px;

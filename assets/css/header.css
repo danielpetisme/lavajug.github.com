@@ -82,8 +82,8 @@
 }
 
 .header.header-shrink img {
-        width: 70px;
-        margin: 15px 0;                
+	width: 70px;
+	margin: 15px 0;                
 }
 
 .header.header-shrink h1 {
@@ -97,37 +97,41 @@
 		width: 100%;
 	}
 
+	.homelink,
 	.header h1,
 	.header nav,
-        .header img {
+    .header img {
 		display: block;
 		margin: 0 auto;
 		text-align: center;
 		float: none;
 	}
 
-        .header h1,
-        .header nav a,
-        .header img {
-                -webkit-transition: all 0s;
-                -moz-transition: all 0s;
-                transition: all 0s;
-        }
+	.homelink,
+	.header h1,
+	.header nav a,
+	.header img {
+		-webkit-transition: all 0s;
+		-moz-transition: all 0s;
+		transition: all 0s;
+	}
 
+	.homelink,
 	.header h1,
 	.header nav a {
 		line-height: 75px;
 	}
 
-        .header h1 {
-                font-size: 2em;
-        }
-        
-
-        .header img {
-            width: 70px;
-            padding-top: 10px;
-        }
+	.homelink,
+	.header h1 {
+		font-size: 2em;
+	}
+	
+	.homelink,
+	.header img {
+		width: 70px;
+		padding-top: 10px;
+	}
 
 	.header nav a {
 		margin: 0 10px;
@@ -138,15 +142,14 @@
 		line-height: 80px;
 	}
 
-        .header.header-shrink img {
-                width: 70px;
-                margin: 5px 0;
-                float: left;                
-
-        }
+	.header.header-shrink img {
+		width: 70px;
+		margin: 5px 0;
+		float: left;
+	}
 
 	.header.header-shrink h1 {
-                display: none;
+		display: none;
 	}
 
 	.header.header-shrink nav a {

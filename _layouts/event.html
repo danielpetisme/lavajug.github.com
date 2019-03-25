@@ -19,9 +19,9 @@
                           {{ content }}
                           <br/>
                           <h4>Sponsors</h4>
-                          <div class="sponsors">
-                          <span>Comme d'habitude la soirée se clôturera par un buffet gracieusement offert par nos sponsors afin de poursuivre les échanges dans un cadre plus informel.</span>
+                          <p>Comme d'habitude la soirée se clôturera par un buffet gracieusement offert par nos sponsors afin de poursuivre les échanges dans un cadre plus informel.</p>
                           <br/>
+                          <div class="sponsors">
                           {% for sponsor in page.sponsors %}
                               <a href="{{site.data.sponsors[sponsor].url}}" target="_blank"><img src="{{site.data.sponsors[sponsor].logo}}" alt="{{sponsor}}" ></a>
                           {% endfor%}

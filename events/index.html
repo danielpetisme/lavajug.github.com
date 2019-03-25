@@ -24,7 +24,7 @@ title: Bienvenue au Lava JUG
 
     </div>
     <div class="content">
-    <span>{{ post.content | strip_html | strip_newlines | truncate: 250 }}</span>
+    <p>{{ post.content | strip_html | strip_newlines | truncate: 250 }}</p>
     <br/><br/>
     {% if post.pending %}
         <a href="{{ post.url }}" class="pull-right btn btn-default">S'inscrire</a>

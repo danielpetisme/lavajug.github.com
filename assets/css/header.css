@@ -41,7 +41,9 @@
 	margin: 0 0 0 0.5em;
 	float: left;
 }
-
+.homelink:hover{
+	color:#333;	
+}
 .header img {
     margin: 50px 0;    
     float: left;    

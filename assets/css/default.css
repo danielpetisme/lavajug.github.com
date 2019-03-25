@@ -166,6 +166,10 @@ a:hover {
 	padding-bottom:1em;
 }
 
+.block .heading {
+	height: 130px;
+}
+
 .map_canvas {
 	width: 70%;
 	height: 300px;

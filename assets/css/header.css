@@ -13,8 +13,7 @@
 }
 
 .header .inner {
-	width: 90%;
-	max-width: 69em;
+	width: 1300px;
 	margin: 0 auto;
 	padding: 0 1.875em;
 }
@@ -92,7 +91,12 @@
 	font-size: 2em;
 }
 
-/* Example Media Queries */
+@media screen and (max-width: 1320px) {
+	.header .inner {
+		width: 980px;
+	}
+}
+
 @media screen and (max-width: 1000px) {
 	
 	.header .inner {

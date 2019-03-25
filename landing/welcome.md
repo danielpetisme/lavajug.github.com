@@ -14,7 +14,7 @@ gratuites et ouvertes à tous. Une autre finalité est la mise en relation de ce
       <form action="https://groups.google.com/group/lava-jug/boxsubscribe">
         <label for="email">eMail: </label>
         <br/>
-        <input name="email"  type="text"/>
+        <input name="email" id="email" type="text"/>
         <br/><br/>
         <input name="sub" type="submit" class="btn btn-default" value="S'inscrire"/>
       </form>

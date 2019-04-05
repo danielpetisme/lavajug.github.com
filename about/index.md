@@ -11,7 +11,7 @@ Ces réunions sont aussi lʼoccasion pour les membres du Lava JUG de se rencontr
 
 ## Objectifs
 
-Lʼobjectif premier est dʼorganiser  10 événements par an (un tous les mois environs, exceptée période estivale) et de créer une synergie entre les acteurs de lʼécosystème Java de la région Auvergne. Le but principal de ces événements est dʼinviter des experts internationaux (Responsable de spéciﬁcation, directeur technique,...) reconnus pour leurs contributions majeures au sein du monde Java aﬁn de proposer des conférences techniques, démonstration, cours, ... 
+Lʼobjectif premier est dʼorganiser 8 événements par an (un tous les mois environs, exceptée période estivale) et de créer une synergie entre les acteurs de lʼécosystème Java de la région Auvergne. Le but principal de ces événements est dʼinviter des experts internationaux (Responsable de spéciﬁcation, directeur technique,...) reconnus pour leurs contributions majeures au sein du monde Java aﬁn de proposer des conférences techniques, démonstration, cours, ... 
 
 Le Lava JUG sʼefforcera de répondre au mieux aux attentes de chacun en invitant les membres à donner leur avis sur chaque session, à proposer des sujets et à voter pour ceux qui les intéressent.
 

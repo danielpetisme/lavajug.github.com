@@ -9,6 +9,29 @@ Lʼassociation réunit régulièrement ses membres pour échanger leurs idées, 
 
 Ces réunions sont aussi lʼoccasion pour les membres du Lava JUG de se rencontrer et nouer des nouveaux contacts autour du cocktail ou du buffet qui clôture traditionnellement les événements dʼun JUG.
 
+## L'association
+
+LavaJUG est une association loi 1901 créée le 09 mais 2011 à Clermont-Ferrand. Le siège social de l’association est situé 40 Boulevard Arisitide Briand 63000 Clermont-Ferrand.
+
+### Bureau 
+
+Le bureau de l’association est composé de :
+
+* Président : Pierre Colomb
+* Trésorier : Thomas Morel
+* Vice-trésorier : Olivier Coupelon
+* Secrétaire : Sylvain Desgrais
+
+### Statuts
+
+Les statuts de l’association sont consultables sur le dépôt GitHub [Lava JUG](https://github.com/LavaJUG) dans la rubrique [documents](https://github.com/LavaJUG/documents/blob/master/Statuts_LavaJUG.md).
+
+### Membres
+
+Les technologies Java vous intéressent et vous souhaitez participez aux événements organisés par le Lava JUG, rejoignez-nous. Le succès du Lava JUG ne se fera que si nous atteignons une masse critique minimum (environs 40 membres). Parlez-en autour de vous !
+
+Néophytes dans le monde Java, le Lava JUG, cʼest aussi lʼendroit pour découvrir les possibilités offertes par ces technologies et rencontrer des experts qui sauront vous éclairer.
+
 ## Objectifs
 
 Lʼobjectif premier est dʼorganiser 8 événements par an (un tous les mois environs, exceptée période estivale) et de créer une synergie entre les acteurs de lʼécosystème Java de la région Auvergne. Le but principal de ces événements est dʼinviter des experts internationaux (Responsable de spéciﬁcation, directeur technique,...) reconnus pour leurs contributions majeures au sein du monde Java aﬁn de proposer des conférences techniques, démonstration, cours, ... 
@@ -27,12 +50,11 @@ Le Lava JUG peut également aider à la promotion dʼun partenaire soit via un �
 
 Votre organisation est un acteur de lʼécosystème Java et souhaite sʼassocier au Lava JUG par le biais dʼun partenariat ou en sponsorisant un événement.
 
-<ul>
-<li>Prêt de matériel audio / vidéo pour lʼorganisation de conférence.</li>
-<li>Fourniture dʼobjets publicitaires ou lots permettant dʼégayer un événement par un tirage au sort ou un quizz.</li>
-<li>Financement dʼun drink ou dʼun buffet en clôture dʼun événement.</li>
-<li>Participation aux frais de fonctionnement de l'association (ex. domaine internet, site web, déplacement des intervenants, etc...)</li>
-</ul>
+* Prêt de matériel audio / vidéo pour lʼorganisation de conférence.
+* Fourniture dʼobjets publicitaires ou lots permettant dʼégayer un événement par un tirage au sort ou un quizz.
+* Financement dʼun drink ou dʼun buffet en clôture dʼun événement.
+* Participation aux frais de fonctionnement de l'association (ex. domaine internet, site web, déplacement des intervenants, etc...).
+
 En contre partie, votre organisation sera référencée (logo, adresse Web…) sur les supports de communication du Lava JUG (site Web, plaquette, mailing, etc.) et présentée comme partenaire ofﬁciel lors des événements. Nous sommes à votre disposition pour discuter toutes vos propositions de partenariat qui pourraient nous satisfaire mutuellement.
 
 ## Intervenant
@@ -40,9 +62,3 @@ En contre partie, votre organisation sera référencée (logo, adresse Web…) s
 En tant quʼutilisateur averti des technologies Java, vous avez envie de partager une expérience sur un projet de développement, la mise en application dʼun sujet dʼétude ou de recherche, une investigation personnelle sur une technologie particulière ; le Lava JUG vous offre une tribune pour présenter votre conférence, démonstration …
 
 En tant quʼéditeur, vous souhaitez présenter une technologie et/ou une solution. Le Lava JUG vous accueillera comme partenaire dʼun événement.
-
-## Membre
-
-Les technologies Java vous intéressent et vous souhaitez participez aux événements organisés par le Lava JUG, rejoignez-nous. Le succès du Lava JUG ne se fera que si nous atteignons une masse critique minimum (environs 40 membres). Parlez-en autour de vous !
-
-Néophytes dans le monde Java, le Lava JUG, cʼest aussi lʼendroit pour découvrir les possibilités offertes par ces technologies et rencontrer des experts qui sauront vous éclairer.

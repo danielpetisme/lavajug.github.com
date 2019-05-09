@@ -24,7 +24,7 @@ Le bureau de l’association est composé de :
 
 ### Statuts
 
-Les statuts de l’association sont consultables sur le dépôt GitHub [Lava JUG](https://github.com/LavaJUG) dans la rubrique [documents](https://github.com/LavaJUG/documents/blob/master/Statuts_LavaJUG.md).
+Les statuts de l’association sont consultables sur le dépôt [GitHub Lava JUG](https://github.com/LavaJUG) dans la rubrique [documents](https://github.com/LavaJUG/documents/blob/master/Statuts_LavaJUG.md).
 
 ### Membres
 

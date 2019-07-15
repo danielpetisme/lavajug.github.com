@@ -1,72 +1,72 @@
 Sopra:
   url: http://www.soprasteria.com/fr
-  logo: /assets/images/sponsors/logo-sopra-steria.png
+  logo: /assets/images/subvention/logo-sopra-steria.png
   premium:
 IPLeanware:
   url: http://www.ipleanware.com/
-  logo: /assets/images/sponsors/logo-ipleanware.png
+  logo: /assets/images/subvention/logo-ipleanware.png
   premium: false
 Braincube:
   url: http://braincube.com/
-  logo: /assets/images/sponsors/logo-braincube.png
+  logo: /assets/images/subvention/logo-braincube.png
   premium: true
 SERLI:
   url: http://www.serli.com/
-  logo: /assets/images/sponsors/logo-serli.png
+  logo: /assets/images/subvention/logo-serli.png
   premium: 
 CGI:
   url: http://www.cgi.fr/
-  logo: /assets/images/sponsors/logo-cgi.png
+  logo: /assets/images/subvention/logo-cgi.png
   premium: true
 almerys:
   url: http://www.almerys.com/
-  logo: /assets/images/sponsors/logo-almerys.jpg
+  logo: /assets/images/subvention/logo-almerys.jpg
   premium: 
 SearchXPR:
   url: http://www.searchxpr.com/
-  logo: /assets/images/sponsors/logo-searchxpr.png
+  logo: /assets/images/subvention/logo-searchxpr.png
   premium: 
 Lojelis:
   url: http://www.lojelis.com/
-  logo: /assets/images/sponsors/logo-lojelis.png
+  logo: /assets/images/subvention/logo-lojelis.png
   premium: 
 Logica:
   url: http://www.cgi.fr/
-  logo: /assets/images/sponsors/logo-logica.jpg
+  logo: /assets/images/subvention/logo-logica.jpg
   premium: 
 Capgemini:
   url: https://www.fr.capgemini.com/
-  logo: /assets/images/sponsors/logo-capgemini.jpg
+  logo: /assets/images/subvention/logo-capgemini.jpg
   premium: 
 CreativeData:
   url: https://www.creativedata.fr/ 
-  logo: /assets/images/sponsors/logo-creativedata.png
+  logo: /assets/images/subvention/logo-creativedata.png
   premium: 
 DevoxxFR:
   url: https://www.devoxx.fr/
-  logo: /assets/images/sponsors/logo-devoxxfr.png
+  logo: /assets/images/subvention/logo-devoxxfr.png
   premium: false
 be-ys:
   url: https://www.be-ys.com/
-  logo: /assets/images/sponsors/logo-beys.png
+  logo: /assets/images/subvention/logo-beys.png
   premium: true
 bivouac:
   url: https://www.lebivouac.com/
-  logo: /assets/images/sponsors/logo-bivouac.jpg
+  logo: /assets/images/subvention/logo-bivouac.jpg
   premium: false
 harvest:
   url: https://www.harvest.fr/
-  logo: /assets/images/sponsors/logo-harvest.png
+  logo: /assets/images/subvention/logo-harvest.png
   premium: true
 clermontech:
   url: https://www.clermontech.org/
-  logo: /assets/images/sponsors/logo-clermontech.png
+  logo: /assets/images/subvention/logo-clermontech.png
   premium: false
 muginclermont:
   url: https://muginclermont.azurewebsites.net/
-  logo: /assets/images/sponsors/logo-muginclermont.png
+  logo: /assets/images/subvention/logo-muginclermont.png
   premium: false
 coffreo:
   url: https://www.coffreo.com/
-  logo: /assets/images/sponsors/logo-coffreo.png
+  logo: /assets/images/subvention/logo-coffreo.png
   premium: false

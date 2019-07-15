@@ -62,3 +62,7 @@ En contre partie, votre organisation sera référencée (logo, adresse Web…) s
 En tant quʼutilisateur averti des technologies Java, vous avez envie de partager une expérience sur un projet de développement, la mise en application dʼun sujet dʼétude ou de recherche, une investigation personnelle sur une technologie particulière ; le Lava JUG vous offre une tribune pour présenter votre conférence, démonstration …
 
 En tant quʼéditeur, vous souhaitez présenter une technologie et/ou une solution. Le Lava JUG vous accueillera comme partenaire dʼun événement.
+
+## Boutique
+
+Une boutique est disponible pour acheter vos goodies aux couleurs du LavaJUG : [La boutique du LavaJUG](https://shop.spreadshirt.fr/lavajug/).

@@ -3,7 +3,7 @@
 layout: event
 title: "Deus Ex Machina"
 date:   2019-09-26
-pending: true
+pending: false
 eventbriteId: 72089819591
 youtubeId: 
 flickrId:

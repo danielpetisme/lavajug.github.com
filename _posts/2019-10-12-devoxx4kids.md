@@ -26,4 +26,4 @@ La team Devoxx4kids France débarque à Clermont.
 
 ### Inscription
 
-Via le site de DevoxxFrance : [https://ticket.devoxx4kids.fr/event/d4k-clermont-ferrand-2019](https://ticket.devoxx4kids.fr/event/d4k-clermont-ferrand-2019).
+Via le site de Devoxx4kidsFrance : [https://ticket.devoxx4kids.fr/event/d4k-clermont-ferrand-2019](https://ticket.devoxx4kids.fr/event/d4k-clermont-ferrand-2019).

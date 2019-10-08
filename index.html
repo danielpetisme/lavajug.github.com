@@ -38,7 +38,8 @@ title: Bienvenue au Lava JUG
                   </div>
                   <div class="content">
                           {{ post.content }}
-                          <br/>                        
+                          <br/>             
+                          {% if page.sponsors.size > 0 %}           
                           <h4>Sponsors</h4>
                           <p>Comme d'habitude la soirée se clôturera par un buffet gracieusement offert par nos sponsors afin de poursuivre les échanges dans un cadre plus informel.</p>
                           <div class="sponsors">
@@ -46,6 +47,7 @@ title: Bienvenue au Lava JUG
                               <a href="{{site.data.sponsors[sponsor].url}}" target="_blank"><img src="{{site.data.sponsors[sponsor].logo}}" alt="{{sponsor}}" ></a>
                           {% endfor%}
                           </div>
+                          {% endif %}
 			  {% if post.location  %}
                           <h4>Comment venir</h4>
                           <div>
